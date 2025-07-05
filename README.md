@@ -11,7 +11,7 @@ https://sujay-kumar-13.github.io/krishi-mitra-page/
 
 The full source code for this project is available in the following repository:
 
-👉 [Krishi Mitra Flutter + Flask Source Code](https://github.com/sujay-kumar-13/krishi-mitra)
+👉 [Krishi Mitra (Flutter + Flask Source Code)](https://github.com/sujay-kumar-13/krishi-mitra)
 
 ---
 
