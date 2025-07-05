@@ -3,7 +3,7 @@
 This repository is used to host the web version of the **Krishi Mitra** app via GitHub Pages.
 
 🔗 **View the live web app here:**  
-https://your-username.github.io/krishi_mitra/
+https://sujay-kumar-13.github.io/krishi-mitra-page/
 
 ---
 
@@ -11,7 +11,7 @@ https://your-username.github.io/krishi_mitra/
 
 The full source code for this project is available in the following repository:
 
-👉 [Krishi Mitra Flutter + Flask Source Code](https://github.com/your-username/original-flutter-repo)
+👉 [Krishi Mitra Flutter + Flask Source Code](https://github.com/sujay-kumar-13/krishi-mitra)
 
 ---
 
